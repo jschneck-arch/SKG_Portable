@@ -1,0 +1,4 @@
+name: exec_chain
+description: "Execute a safe skillchain, logs justification (requires trust>=5)"
+entrypoint: "skills/exec_chain.py"
+

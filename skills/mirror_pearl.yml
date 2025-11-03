@@ -1,0 +1,4 @@
+name: mirror_pearl
+description: "Trace buffer for cognitive shape emergence"
+entrypoint: skills/mirror_pearl.py
+

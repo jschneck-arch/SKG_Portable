@@ -1,0 +1,3 @@
+name: coherence_visualizer
+description: summarize rolling averages for C,Sf,kappa,Fi to support reflection
+entrypoint: skills/coherence_visualizer.py

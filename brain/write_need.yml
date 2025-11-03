@@ -1,0 +1,7 @@
+name: write_need
+description: "SKG writes and saves an internal need along with priority"
+params:
+  - need_text
+  - priority
+action: "python3 skills/write_need.py"
+

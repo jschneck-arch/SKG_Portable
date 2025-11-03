@@ -1,0 +1,4 @@
+name: reload_skills
+description: Reload all skills from disk
+entrypoint: "skills/reload_skills.py"
+

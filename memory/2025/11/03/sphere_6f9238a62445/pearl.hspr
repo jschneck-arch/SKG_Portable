@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:46Z
+    id: 20251103T133146Z_6f9238a62445
+    class: logline
+    state: stable
+    hash: sha1:6f9238a62445
+  }
+  ~thought
+   msg:"{"text": "@app.route(\"/\")"}"
+   context:"from:ui.log"
+   kind:"logline"
+  ~
+  { "truth_anchor": true, "kind": "logline", "msg": "{\"text\": \"@app.route(\\\"/\\\")\"}", "context": "from:ui.log" }
+</pearl>

@@ -1,0 +1,4 @@
+name: approval_reflector
+description: Records human approval decisions and summarizes reflection trends.
+entrypoint: skills/approval_reflector.py
+

@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:46Z
+    id: 20251103T133146Z_8310aa634e6f
+    class: logline
+    state: stable
+    hash: sha1:8310aa634e6f
+  }
+  ~thought
+   msg:"{"ts": 1762138174.4819736, "event": "mode_change", "from": "unified", "to": "safe", "reason": "meta_cycle activation"}"
+   context:"from:mode.log"
+   kind:"logline"
+  ~
+  { "truth_anchor": true, "kind": "logline", "msg": "{\"ts\": 1762138174.4819736, \"event\": \"mode_change\", \"from\": \"unified\", \"to\": \"safe\", \"reason\": \"meta_cycle activation\"}", "context": "from:mode.log" }
+</pearl>

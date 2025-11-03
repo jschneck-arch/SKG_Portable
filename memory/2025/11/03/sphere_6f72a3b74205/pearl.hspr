@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:42Z
+    id: 20251103T133142Z_6f72a3b74205
+    class: approval
+    state: stable
+    hash: sha1:6f72a3b74205
+  }
+  ~thought
+   msg:"{"proposal": "guided_forge", "decision": "approved", "reason": "Coherent next phase of self-regulation", "timestamp": "2025-11-03T04:29:15.458462"}"
+   context:"from:approval_history.log"
+   kind:"approval"
+  ~
+  { "truth_anchor": true, "kind": "approval", "msg": "{\"proposal\": \"guided_forge\", \"decision\": \"approved\", \"reason\": \"Coherent next phase of self-regulation\", \"timestamp\": \"2025-11-03T04:29:15.458462\"}", "context": "from:approval_history.log" }
+</pearl>

@@ -1,0 +1,4 @@
+name: memory_pearl
+description: Write HSPR pearls (local + shared mirror)
+entrypoint: "skills/memory_pearl.py"
+

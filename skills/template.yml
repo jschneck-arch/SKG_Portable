@@ -1,0 +1,19 @@
+# template.yml - example skill definition
+name: "echo_hello"
+version: "0.1"
+description: "Simple test skill - echo a message."
+author: "you"
+allowed: true          # set false to disable
+type: "utility"        # utility | system | custom
+run:
+  # either "cmd" single shell-like string, or "script" list of commands
+  cmd: "echo 'hello from skill: {{param_message}}'"
+  # script:
+  #  - "echo step1"
+  #  - "echo step2"
+params:
+  param_message:
+    required: false
+    default: "SKG"
+timeout: 6   # seconds
+

@@ -1,0 +1,4 @@
+name: sandbox_mode
+description: Toggle sandbox mode for safe imagination
+entrypoint: skills/sandbox_mode.py
+

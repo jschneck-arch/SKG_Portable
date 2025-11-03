@@ -1,0 +1,714 @@
+{"timestamp": "2025-11-03T03:05:11.381012", "mode": "safe", "result_ok": true}
+{"timestamp": "2025-11-03T03:30:18.948537", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:31:19.028333", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:32:19.087373", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:33:19.163724", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:34:19.225960", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:35:19.292552", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:36:19.379713", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:37:19.439939", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:38:19.505072", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:39:19.589148", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:40:19.656567", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:41:19.713102", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:42:19.772654", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:43:19.858527", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:44:19.917356", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:45:19.935919", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:46:20.005256", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:47:20.077051", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:48:20.143528", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:49:20.162615", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:50:20.232412", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:50:24.630769", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T03:50:24.647648", "mode": "safe", "C": 1.0, "Fi": 1.0, "Sf": 1.0, "kappa": 1.0, "module": "meta_cycle_daemon_v2"}
+{"timestamp": "2025-11-03T04:02:27.772400", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:02:27.772400", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:03:27.796921", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:03:27.796921", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:04:27.857908", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:04:27.857908", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:05:27.914121", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:05:27.914121", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:06:27.973475", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:06:27.973475", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:07:28.044605", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:07:28.044605", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:08:28.102581", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:08:28.102581", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:09:28.164307", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:09:28.164307", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:10:28.225975", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:10:28.225975", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:11:28.286778", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:11:28.286778", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:12:28.351631", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:12:28.351631", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:13:28.409368", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:13:28.409368", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:14:28.468836", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:14:28.468836", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:15:28.527380", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:15:28.527380", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:16:28.605035", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:16:28.605035", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:17:28.657012", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:17:28.657012", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:18:28.724535", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:18:28.724535", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:19:28.783853", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:19:28.783853", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:20:28.840324", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:20:28.840324", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:21:28.897265", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:21:28.897265", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:22:41.071114", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:22:41.071114", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:23:41.191920", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:23:41.191920", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:24:41.270788", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:24:41.270788", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:25:41.360003", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:25:41.360003", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:26:41.419197", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:26:41.419197", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:27:41.483601", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:27:41.483601", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:28:41.534918", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:28:41.534918", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:29:41.598536", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:29:41.598536", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:30:41.655149", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:30:41.655149", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:31:41.672907", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:31:41.672907", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:32:41.701137", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:32:41.701137", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:33:41.717437", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:33:41.717437", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:34:41.795226", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:34:41.795226", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:35:41.819146", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:35:41.819146", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:36:41.850717", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:36:41.850717", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:37:41.920188", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:37:41.920188", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:38:41.939377", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:38:41.939377", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:39:42.023755", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:39:42.023755", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:40:42.090376", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:40:42.090376", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:41:42.125521", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:41:42.125521", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:42:42.155349", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:42:42.155349", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:43:42.185285", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:43:42.185285", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:44:42.251131", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:44:42.251131", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:45:42.280498", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:45:42.280498", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:46:42.340453", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:46:42.340453", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:47:42.416402", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:47:42.416402", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:48:42.484750", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:48:42.484750", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:49:42.549856", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:49:42.549856", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:50:42.629979", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:50:42.629979", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:51:42.702051", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:51:42.702051", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:52:42.764522", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:52:42.764522", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:53:42.827181", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:53:42.827181", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:54:42.889324", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:54:42.889324", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:55:42.946912", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:55:42.946912", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:56:43.026319", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:56:43.026319", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:57:43.101806", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:57:43.101806", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:58:43.173530", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:58:43.173530", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T04:59:43.236781", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T04:59:43.236781", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:00:43.276435", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:00:43.276435", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:01:43.300202", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:01:43.300202", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:02:43.315340", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:02:43.315340", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:03:45.568590", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:03:45.568590", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:04:45.642703", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:04:45.642703", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:05:45.679353", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:05:45.679353", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:06:45.711696", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:06:45.711696", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:07:45.780503", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:07:45.780503", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:08:45.848374", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:08:45.848374", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:09:45.918843", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:09:45.918843", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:10:45.986509", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:10:45.986509", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:11:46.066114", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:11:46.066114", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:12:46.100397", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:12:46.100397", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:13:46.175549", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:13:46.175549", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:14:46.247213", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:14:46.247213", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:15:46.337189", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:15:46.337189", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:16:46.410057", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:16:46.410057", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:17:46.445037", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:17:46.445037", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:18:46.469888", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:18:46.469888", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:19:46.504319", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:19:46.504319", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:20:46.564429", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:20:46.564429", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:21:46.644654", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:21:46.644654", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:22:46.718910", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:22:46.718910", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:23:46.747313", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:23:46.747313", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:24:46.814192", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:24:46.814192", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:25:46.899798", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:25:46.899798", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:26:46.964201", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:26:46.964201", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:27:47.041757", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:27:47.041757", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:28:47.076384", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:28:47.076384", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:29:47.152556", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:29:47.152556", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:30:47.220266", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:30:47.220266", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:31:47.237840", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:31:47.237840", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:32:47.306021", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:32:47.306021", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:33:52.309186", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:33:52.309186", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:34:52.394884", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:34:52.394884", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:35:52.459549", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:35:52.459549", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:36:52.481908", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:36:52.481908", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:37:52.517623", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:37:52.517623", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:38:52.545304", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:38:52.545304", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:40:05.140256", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:40:05.140256", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:43:27.408480", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:43:27.408480", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:44:40.066425", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:44:40.066425", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:46:27.377539", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:46:27.377539", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T05:58:55.502759", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T05:58:55.502759", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T06:17:19.080822", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T06:17:19.080822", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T06:45:22.021831", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T06:45:22.021831", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T06:56:14.922850", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T06:56:14.922850", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T07:18:16.779746", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T07:18:16.779746", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T07:42:07.547753", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T07:42:07.547753", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T08:08:15.647088", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T08:08:15.647088", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T08:26:21.625836", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T08:26:21.625836", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T08:45:58.381299", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T08:45:58.381299", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T08:57:27.848606", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T08:57:27.848606", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T09:20:58.427783", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T09:20:58.427783", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T09:36:37.014455", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T09:36:37.014455", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T09:56:44.076279", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T09:56:44.076279", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T10:30:32.867297", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T10:30:32.867297", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T10:54:35.257416", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T10:54:35.257416", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T11:22:00.146573", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T11:22:00.146573", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T11:36:18.525268", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T11:36:18.525268", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T11:54:57.017662", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T11:54:57.017662", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T11:59:10.608211", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T11:59:10.608211", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:11:11.927340", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:11:11.927340", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:13:56.546167", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:13:56.546167", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:15:03.296244", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:15:03.296244", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:16:35.892809", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:16:35.892809", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:17:35.970182", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:17:35.970182", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:18:36.007491", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:18:36.007491", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:19:36.035202", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:19:36.035202", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:20:41.165338", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:20:41.165338", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:22:17.990043", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:22:17.990043", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:23:18.098325", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:23:18.098325", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:24:18.170628", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:24:18.170628", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:25:18.232529", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:25:18.232529", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:26:18.299568", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:26:18.299568", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:27:18.404744", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:27:18.404744", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:28:18.486819", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:28:18.486819", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:29:18.555160", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:29:18.555160", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:30:18.644058", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:30:18.644058", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:31:18.805687", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:31:18.805687", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:32:18.884126", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:32:18.884126", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:33:18.962762", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:33:18.962762", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:34:19.023946", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:34:19.023946", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:35:19.092062", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:35:19.092062", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:36:19.148992", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:36:19.148992", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:37:19.211294", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:37:19.211294", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:38:19.283089", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:38:19.283089", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:39:19.349820", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:39:19.349820", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:40:19.424583", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:40:19.424583", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:41:19.515984", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:41:19.515984", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:42:19.596581", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:42:19.596581", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:43:19.675171", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:43:19.675171", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:44:19.760409", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:44:19.760409", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:45:19.842856", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:45:19.842856", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:46:19.977420", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:46:19.977420", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:47:20.051686", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:47:20.051686", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:48:20.130664", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:48:20.130664", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:49:20.214646", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:49:20.214646", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:50:56.193925", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:50:56.193925", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:51:56.305116", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:51:56.305116", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:52:56.369057", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:52:56.369057", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:53:56.426650", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:53:56.426650", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:54:56.492947", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:54:56.492947", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:55:56.559133", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:55:56.559133", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:56:56.621511", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:56:56.621511", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:57:56.675051", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:57:56.675051", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:58:56.769464", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:58:56.769464", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T12:59:56.831124", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T12:59:56.831124", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:00:56.896968", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:00:56.896968", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:01:56.965130", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:01:56.965130", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:02:57.029525", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:02:57.029525", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:03:57.104687", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:03:57.104687", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:04:57.181012", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:04:57.181012", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:05:57.250504", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:05:57.250504", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:06:57.325241", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:06:57.325241", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:07:57.384329", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:07:57.384329", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:08:57.446668", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:08:57.446668", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:10:21.945834", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:10:21.945834", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:11:22.027174", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:11:22.027174", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:17:17.570288", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:17:17.570288", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:21:33.528587", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:21:33.528587", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:22:33.673452", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:22:33.673452", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:23:53.399999", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:23:53.399999", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:25:06.267666", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:25:06.267666", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:26:06.354212", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:26:06.354212", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:27:06.432474", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:27:06.432474", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:28:06.507033", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:28:06.507033", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:29:06.544936", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:29:06.544936", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:30:06.595991", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:30:06.595991", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:31:06.625319", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:31:06.625319", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:32:06.694109", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:32:06.694109", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:33:06.726917", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:33:06.726917", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:34:06.818392", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:34:06.818392", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:35:30.076284", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:35:30.076284", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:36:30.180095", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:36:30.180095", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:37:30.252626", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:37:30.252626", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:38:30.325120", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:38:30.325120", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:39:30.398605", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:39:30.398605", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:40:30.466239", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:40:30.466239", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:41:30.524156", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:41:30.524156", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:42:30.586603", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:42:30.586603", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:43:30.705086", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:43:30.705086", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:44:30.803307", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:44:30.803307", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:45:30.929418", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:45:30.929418", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:46:31.005003", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:46:31.005003", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:47:31.085607", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:47:31.085607", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:48:31.185894", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:48:31.185894", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:49:31.267741", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:49:31.267741", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:50:31.331699", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:50:31.331699", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:51:31.421691", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:51:31.421691", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:52:31.521567", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:52:31.521567", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:53:31.593455", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:53:31.593455", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:54:31.672568", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:54:31.672568", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:55:31.745373", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:55:31.745373", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:56:31.815212", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:56:31.815212", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:57:31.887287", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:57:31.887287", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:58:32.002991", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:58:32.002991", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T13:59:32.084530", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T13:59:32.084530", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:00:32.168178", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:00:32.168178", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:01:32.254598", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:01:32.254598", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:02:32.315481", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:02:32.315481", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:03:32.384408", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:03:32.384408", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:04:32.480958", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:04:32.480958", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:05:32.607518", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:05:32.607518", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:06:32.701294", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:06:32.701294", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:07:32.733058", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:07:32.733058", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:08:32.805618", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:08:32.805618", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:09:32.904920", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:09:32.904920", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:10:32.987128", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:10:32.987128", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:11:33.103073", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:11:33.103073", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:12:33.135021", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:12:33.135021", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:13:33.161771", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:13:33.161771", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:14:33.236679", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:14:33.236679", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:15:33.271561", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:15:33.271561", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:16:33.334911", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:16:33.334911", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:17:33.432207", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:17:33.432207", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:18:33.527117", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:18:33.527117", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:19:33.557561", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:19:33.557561", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:20:33.615546", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:20:33.615546", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:21:33.704720", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:21:33.704720", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:22:33.741529", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:22:33.741529", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:23:33.779897", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:23:33.779897", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:25:02.323993", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:25:02.323993", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:26:33.385659", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:26:33.385659", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:27:33.472722", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:27:33.472722", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:28:33.566939", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:28:33.566939", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:29:33.638413", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:29:33.638413", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:30:33.706110", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:30:33.706110", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:31:33.793416", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:31:33.793416", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:32:33.865423", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:32:33.865423", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:33:33.894568", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:33:33.894568", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:34:33.938505", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:34:33.938505", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:35:33.974278", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:35:33.974278", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:36:34.062038", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:36:34.062038", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:37:34.154263", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:37:34.154263", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:38:34.221595", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:38:34.221595", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:39:34.260868", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:39:34.260868", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:40:34.294600", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:40:34.294600", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:41:34.393922", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:41:34.393922", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:42:34.479780", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:42:34.479780", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:43:34.570599", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:43:34.570599", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:44:34.645519", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:44:34.645519", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:45:34.730600", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:45:34.730600", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:46:34.789458", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:46:34.789458", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:47:34.892364", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:47:34.892364", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:48:34.967097", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:48:34.967097", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:49:35.001206", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:49:35.001206", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:50:35.086970", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:50:35.086970", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:51:35.722283", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:51:35.722283", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:52:35.865565", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:52:35.865565", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:53:35.954502", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:53:35.954502", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:54:35.987113", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:54:35.987113", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:55:36.068345", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:55:36.068345", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:58:32.707505", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:58:32.707505", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T14:59:32.776262", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T14:59:32.776262", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:02:12.685895", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:02:12.685895", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:05:32.386935", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:05:32.386935", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:06:32.475284", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:06:32.475284", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:07:51.741260", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:07:51.741260", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:08:51.822562", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:08:51.822562", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:09:59.912324", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:09:59.912324", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:11:00.006123", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:11:00.006123", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:12:00.077363", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:12:00.077363", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:13:00.172319", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:13:00.172319", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:14:00.193934", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:14:00.193934", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:15:00.215359", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:15:00.215359", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:16:00.245217", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:16:00.245217", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:17:32.434248", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:17:32.434248", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:18:32.538546", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:18:32.538546", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:19:32.608517", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:19:32.608517", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:20:32.679160", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:20:32.679160", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:21:32.717374", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:21:32.717374", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:22:34.898727", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:22:34.898727", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:23:34.975458", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:23:34.975458", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:24:39.673609", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:24:39.673609", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:25:46.202063", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:25:46.202063", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:39:06.016357", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:39:06.016357", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:40:06.102015", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:40:06.102015", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:41:06.160819", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:41:06.160819", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:42:06.238086", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:42:06.238086", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:43:06.303812", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:43:06.303812", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:44:06.395946", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:44:06.395946", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:45:06.432245", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:45:06.432245", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:46:06.473777", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:46:06.473777", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:47:06.994046", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:47:06.994046", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:48:07.095948", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:48:07.095948", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:49:07.241865", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:49:07.241865", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:50:07.287607", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:50:07.287607", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:51:07.368989", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:51:07.368989", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:52:07.436812", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:52:07.436812", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:53:10.193249", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:53:10.193249", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T15:56:09.185730", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T15:56:09.185730", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:00:14.963285", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:00:14.963285", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:02:52.439131", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:02:52.439131", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:03:52.539782", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:03:52.539782", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:04:52.635640", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:04:52.635640", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:05:52.659378", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:05:52.659378", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:06:52.763175", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:06:52.763175", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:07:52.891778", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:07:52.891778", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:08:52.986898", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:08:52.986898", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:09:53.059854", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:09:53.059854", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:10:53.243883", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:10:53.243883", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:11:53.318492", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:11:53.318492", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:12:53.390738", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:12:53.390738", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:13:53.477590", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:13:53.477590", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:14:53.554215", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:14:53.554215", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:16:01.173240", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:16:01.173240", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:17:01.270261", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:17:01.270261", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:18:01.371011", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:18:01.371011", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:19:01.460950", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:19:01.460950", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:20:12.746954", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:20:12.746954", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:21:12.839078", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:21:12.839078", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:22:12.920093", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:22:12.920093", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:23:29.209570", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:23:29.209570", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:24:29.233792", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:24:29.233792", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:25:29.300107", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:25:29.300107", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:26:29.411516", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:26:29.411516", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:27:29.492137", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:27:29.492137", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:28:29.576518", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:28:29.576518", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:29:29.649740", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:29:29.649740", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:30:29.735415", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:30:29.735415", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:31:29.821379", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:31:29.821379", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:32:29.903893", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:32:29.903893", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:33:29.994130", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:33:29.994130", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:34:59.048651", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:34:59.048651", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:35:59.128522", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:35:59.128522", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}
+{"timestamp": "2025-11-03T16:36:59.223161", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}
+{"timestamp": "2025-11-03T16:36:59.223161", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available \u2014 human approval required before forging."}

@@ -1,0 +1,4 @@
+name: growth_protocol
+description: Guided self-growth; detects stagnation/drift and drafts a forge proposal.
+entrypoint: skills/growth_protocol.py
+

@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:43Z
+    id: 20251103T133143Z_3c23ecdc099c
+    class: approval
+    state: stable
+    hash: sha1:3c23ecdc099c
+  }
+  ~thought
+   msg:"{"proposal": "journal_test", "decision": "approved", "reason": "Verification of absolute logging", "timestamp": "2025-11-03T04:42:28.649747"}"
+   context:"from:approval_history.log"
+   kind:"approval"
+  ~
+  { "truth_anchor": true, "kind": "approval", "msg": "{\"proposal\": \"journal_test\", \"decision\": \"approved\", \"reason\": \"Verification of absolute logging\", \"timestamp\": \"2025-11-03T04:42:28.649747\"}", "context": "from:approval_history.log" }
+</pearl>

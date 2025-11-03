@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:42Z
+    id: 20251103T133142Z_e832ad03226f
+    class: telemetry
+    state: stable
+    hash: sha1:e832ad03226f
+  }
+  ~thought
+   msg:"{"timestamp": "2025-11-03T13:30:06.595991", "mode": "?", "C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0, "learning_state": "stable", "module": "meta_cycle_daemon_v3"}"
+   context:"from:telemetry.log"
+   kind:"telemetry"
+  ~
+  { "truth_anchor": true, "kind": "telemetry", "msg": "{\"timestamp\": \"2025-11-03T13:30:06.595991\", \"mode\": \"?\", \"C\": 1.0, \"Sf\": 1.0, \"Fi\": 1.0, \"kappa\": 1.0, \"learning_state\": \"stable\", \"module\": \"meta_cycle_daemon_v3\"}", "context": "from:telemetry.log" }
+</pearl>

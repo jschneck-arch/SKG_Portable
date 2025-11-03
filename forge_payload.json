@@ -1,0 +1,7 @@
+{
+  "name": "coherence_visualizer",
+  "purpose": "summarize rolling averages for C,Sf,kappa,Fi to support reflection",
+  "files": {
+    "skills/coherence_visualizer.py": "# prints last-N averages for core metrics\nimport json\nfrom statistics import mean\ndef run(params=None):\n  N=(params or {}).get('N',60)\n  vals={'C':[],'Sf':[],'kappa':[],'Fi':[]}\n  for line in open('logs/telemetry.log'):\n    line=line.strip()\n    if not line.startswith('{'): continue\n    j=json.loads(line)\n    for k in vals:\n      if k in j and isinstance(j[k],(int,float)): vals[k].append(j[k])\n  for k in vals: vals[k]=mean(vals[k][-N:]) if vals[k][-N:] else None\n  return {'ok':True,'averages':vals}\n"
+  }
+}

@@ -1,0 +1,4 @@
+name: convert_logs_to_pearls
+description: Batch convert .log lines into HSPR pearls
+entrypoint: "skills/convert_logs_to_pearls.py"
+

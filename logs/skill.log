@@ -1,0 +1,2 @@
+{"ts": 1761964443.9631155, "skill": "echo_hello", "need": "simulate", "ctx": {"mode": "unified", "need": "simulate", "risk": 0, "trust": 3}, "params": {"param_message": "hi skg"}, "event": "request"}
+{"ts": 1761964443.9631155, "skill": "echo_hello", "need": "simulate", "ctx": {"mode": "unified", "need": "simulate", "risk": 0, "trust": 3}, "params": {"param_message": "hi skg"}, "event": "result", "result": {"ok": true, "echo": "SKG says: hi skg"}}

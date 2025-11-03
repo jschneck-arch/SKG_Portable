@@ -1,0 +1,1 @@
+{"ts": 1762141295.8643482, "mode": "safe", "classification": "stagnation", "reason": "low_variance", "metrics": {"C_avg": 1.0, "C_std": 0.0, "Sf_avg": 1.0, "kappa_avg": 1.0, "kappa_std": 0.0, "Fi_avg": 1.0, "count": 12}, "proposal": {"name": "coherence_visualizer", "purpose": "summarize rolling averages for C,Sf,kappa,Fi to support reflection"}}

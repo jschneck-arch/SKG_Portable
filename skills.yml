@@ -1,0 +1,29 @@
+skills:
+  - name: termux_exec
+    enabled: true
+    command: sh -c "{input}"
+    mode: sandboxed
+    timeout: 5
+    notes: Executes simple termux shell commands (ls, df -h, ps)
+  
+  - name: summarize
+    enabled: true
+    exec: internal
+    notes: Summarize memory logs or input text
+
+  - name: reflect
+    enabled: true
+    exec: internal
+    notes: Cognitive reflection: what changed? what matters? what's next?
+
+  - name: write_need
+    module: write_need
+
+  - name: exec_chain
+    module: exec_chain
+
+  - name: iface_enum
+    module: iface_enum
+
+# add others as you create them: port_scan_lite, local_net_sweep, run_skill, etc.
+

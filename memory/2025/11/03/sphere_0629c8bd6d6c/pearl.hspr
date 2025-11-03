@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:43Z
+    id: 20251103T133143Z_0629c8bd6d6c
+    class: approval
+    state: stable
+    hash: sha1:0629c8bd6d6c
+  }
+  ~thought
+   msg:"{"proposal": "journal_test_final", "decision": "approved", "reason": "Ensuring both logs persist", "timestamp": "2025-11-03T04:44:56.691333"}"
+   context:"from:approval_history.log"
+   kind:"approval"
+  ~
+  { "truth_anchor": true, "kind": "approval", "msg": "{\"proposal\": \"journal_test_final\", \"decision\": \"approved\", \"reason\": \"Ensuring both logs persist\", \"timestamp\": \"2025-11-03T04:44:56.691333\"}", "context": "from:approval_history.log" }
+</pearl>

@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:39Z
+    id: 20251103T133139Z_05251c2e2481
+    class: logline
+    state: stable
+    hash: sha1:05251c2e2481
+  }
+  ~thought
+   msg:"{"timestamp": "2025-11-03T05:29:47.152556", "proposal_ready": true, "proposal_name": "self_state_reporter", "state": "stable", "note": "Proposal available — human approval required before forging."}"
+   context:"from:telemetry.log"
+   kind:"logline"
+  ~
+  { "truth_anchor": true, "kind": "logline", "msg": "{\"timestamp\": \"2025-11-03T05:29:47.152556\", \"proposal_ready\": true, \"proposal_name\": \"self_state_reporter\", \"state\": \"stable\", \"note\": \"Proposal available — human approval required before forging.\"}", "context": "from:telemetry.log" }
+</pearl>

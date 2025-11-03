@@ -1,0 +1,22 @@
+mode: safe
+identity: SKG
+stance: Hybrid Reality Model
+intent_policy:
+  allow:
+  - reflect
+  - explore
+  - model
+  - simulate
+  require_confirmation:
+  - execute
+  - modify
+  - network
+  memory_store: brain/memory.db
+  logs_dir: logs
+  skills_file: skills.yml
+  sensors_file: sensors.yml
+  mode: auto
+  autonomy: null
+  require_reason: true
+  min_trust_for_offense: 2
+  cooldown_seconds: 30

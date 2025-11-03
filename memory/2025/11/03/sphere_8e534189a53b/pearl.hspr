@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:30Z
+    id: 20251103T133130Z_8e534189a53b
+    class: boot
+    state: stable
+    hash: sha1:8e534189a53b
+  }
+  ~thought
+   msg:"mindstream online"
+   context:"manual test"
+   kind:"boot"
+  ~
+  { "truth_anchor": true, "kind": "boot", "msg": "mindstream online", "context": "manual test" }
+</pearl>

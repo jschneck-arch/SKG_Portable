@@ -1,0 +1,4 @@
+name: mindstream_sink
+description: Wrapper to memory_pearl
+entrypoint: "skills/mindstream_sink.py"
+

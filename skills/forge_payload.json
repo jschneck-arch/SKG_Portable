@@ -1,0 +1,7 @@
+{
+  "name": "coherence_monitor",
+  "purpose": "Read telemetry.log and compute running averages for C, Sf, kappa, Fi",
+  "files": {
+    "skills/coherence_monitor.py": "# simple reader for telemetry\nimport json\nfrom statistics import mean\n\ndef run(params=None):\n    path='logs/telemetry.log'\n    values={'C':[], 'Sf':[], 'kappa':[], 'Fi':[]}\n    try:\n        for line in open(path):\n            j=json.loads(line)\n            for k in values:\n                if k in j: values[k].append(j[k])\n        avg={k:mean(v) if v else None for k,v in values.items()}\n        return {'ok':True,'averages':avg}\n    except Exception as e:\n        return {'ok':False,'error':str(e)}"
+  }
+}

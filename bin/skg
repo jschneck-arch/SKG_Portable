@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$DIR"
+case "$1" in
+  status) python3 run_skg.py --status ;;
+  recall) python3 run_skg.py --recall ;;
+  reflect) python3 run_skg.py --reflect ;;
+  plan) python3 run_skg.py --plan ;;
+  mode) shift; python3 run_skg.py --mode "$1" ;;
+  anchor) shift; python3 run_skg.py --anchor reality ;;
+  start) python3 run_skg.py --start ;;
+  stop) python3 run_skg.py --stop ;;
+  *) echo "Usage: skg {status|recall|reflect|plan|mode <kernel|resonance|unified>|anchor reality|start|stop}" ;;
+esac

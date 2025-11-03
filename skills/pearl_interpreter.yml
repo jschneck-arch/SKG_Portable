@@ -1,0 +1,4 @@
+name: pearl_interpreter
+description: "Reads pearls and returns a Structured Interpretation Packet (mode-aware)."
+entrypoint: "skills/pearl_interpreter.py"
+

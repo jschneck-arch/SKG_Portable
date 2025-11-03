@@ -1,0 +1,3 @@
+name: meta_cycle_daemon_v3
+description: Autonomous evolution daemon that runs meta_cycle, summarizes, and proposes new modules when stable.
+entrypoint: skills/meta_cycle_daemon_v3.py

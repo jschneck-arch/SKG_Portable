@@ -1,0 +1,3 @@
+name: guided_forge
+description: Controlled forge system that writes new modules only when stable or improving.
+entrypoint: skills/guided_forge.py

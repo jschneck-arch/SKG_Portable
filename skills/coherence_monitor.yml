@@ -1,0 +1,3 @@
+name: coherence_monitor
+description: Compute running averages from telemetry.log
+entrypoint: skills/coherence_monitor.py

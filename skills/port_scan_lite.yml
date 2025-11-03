@@ -1,0 +1,4 @@
+name: port_scan_lite
+description: "Lite port scan (top ports) against a target - safety-checked"
+entrypoint: "skills/port_scan_lite.py"
+

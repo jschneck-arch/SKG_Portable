@@ -1,0 +1,4 @@
+name: meta_cycle_daemon
+description: Reflective heartbeat for SKG that runs meta_cycle when safe/unified/research.
+entrypoint: skills/meta_cycle_daemon.py
+

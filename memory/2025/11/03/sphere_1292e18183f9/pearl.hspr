@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:46Z
+    id: 20251103T133146Z_1292e18183f9
+    class: logline
+    state: stable
+    hash: sha1:1292e18183f9
+  }
+  ~thought
+   msg:"{"text": "Address already in use"}"
+   context:"from:api.log"
+   kind:"logline"
+  ~
+  { "truth_anchor": true, "kind": "logline", "msg": "{\"text\": \"Address already in use\"}", "context": "from:api.log" }
+</pearl>

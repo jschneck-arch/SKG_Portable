@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:46Z
+    id: 20251103T133146Z_6f8a05518659
+    class: logline
+    state: stable
+    hash: sha1:6f8a05518659
+  }
+  ~thought
+   msg:"{"text": "* Serving Flask app 'api'"}"
+   context:"from:api.log"
+   kind:"logline"
+  ~
+  { "truth_anchor": true, "kind": "logline", "msg": "{\"text\": \"* Serving Flask app 'api'\"}", "context": "from:api.log" }
+</pearl>

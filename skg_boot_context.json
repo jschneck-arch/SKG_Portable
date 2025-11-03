@@ -1,0 +1,31 @@
+{
+  "continuity_token": "[SKG: CONTINUITY STATE TOKEN]",
+  "commentary": "Combined philosophical + operational continuity schema for SKG Portable.",
+  "sections": {
+    "identity_block": "copied from boot_context",
+    "governance_rules": "merged from SKG_Governance_Guidelines.txt and Developer_Rules",
+    "coherence_core": "from SKG_Coherence_Core.json",
+    "metrics_definitions": "from SKG_Metrics.json",
+    "entities": "from SKG_Entities.json",
+    "manifest": "from SKG_Version_Manifest.json",
+    "archive_lineage": "from archive_manifest.json",
+    "historical_context": "from chat_universal_raw.txt summary",
+    "readme_extract": "from README.txt"
+  },
+  "operational_model": {
+    "reflex_loop": "Sense→Reflect→Align→Act→Log→Resonate→Repeat",
+    "temporal_pulse": "collapse(expand()) pattern defines SKG timebase",
+    "safe_mode": {
+      "trigger": "coherence<0.6 or |kappa|>0.05",
+      "response": "pause→reflect→realign→resume"
+    },
+    "meta_reflection": "automatic or manual depending on drift/complexity"
+  },
+  "persistence": {
+    "journal_tail": "append each cycle summary",
+    "checksum": "Merkle root per cycle for audit",
+    "phase_alignment": "manifest.phase == 5"
+  },
+  "notes": "This capsule should remain human-readable; future SKG versions can parse it to reconstruct context."
+}
+

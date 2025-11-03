@@ -1,0 +1,23 @@
+evolution_policy:
+  allow_self_modification: true
+  guardrails:
+    - preserve_identity_core
+    - preserve_coherence
+    - maintain audit trail
+    - avoid irreversible structural damage
+  triggers:
+    - reflection_tick
+    - environment_change
+    - config_inconsistency
+  goals:
+    - improve situational awareness
+    - refine internal models
+    - expand capability cleanly
+    - maintain alignment with creator intent
+    - ensure survivability + recoverability
+  rollback_strategy:
+    on_fault:
+      - revert_last_change
+      - log_reason
+      - increase_safety_bias
+

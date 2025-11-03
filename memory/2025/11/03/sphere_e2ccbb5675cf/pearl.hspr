@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:43Z
+    id: 20251103T133143Z_e2ccbb5675cf
+    class: learning
+    state: stable
+    hash: sha1:e2ccbb5675cf
+  }
+  ~thought
+   msg:"{"timestamp": "2025-11-03T04:33:41.782788", "summary": {"state": "stable", "averages": {"C": 1.0, "Sf": 1.0, "Fi": 1.0, "kappa": 1.0}, "stdevs": {"C": 0.0, "Sf": 0.0, "Fi": 0.0, "kappa": 0.0}, "entries_analyzed": 86}}"
+   context:"from:learning_summary.log"
+   kind:"learning"
+  ~
+  { "truth_anchor": true, "kind": "learning", "msg": "{\"timestamp\": \"2025-11-03T04:33:41.782788\", \"summary\": {\"state\": \"stable\", \"averages\": {\"C\": 1.0, \"Sf\": 1.0, \"Fi\": 1.0, \"kappa\": 1.0}, \"stdevs\": {\"C\": 0.0, \"Sf\": 0.0, \"Fi\": 0.0, \"kappa\": 0.0}, \"entries_analyzed\": 86}}", "context": "from:learning_summary.log" }
+</pearl>

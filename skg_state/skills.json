@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "skills": [
+    "run_skill",
+    "forge_request",
+    "iface_enum",
+    "exec_chain",
+    "introspect",
+    "local_net_sweep",
+    "fingerprint_host",
+    "port_scan_lite",
+    "codeforge",
+    "journal",
+    "safety_kernel",
+    "meta_cycle",
+    "hello_skg",
+    "reload_skills",
+    "mirror_pearl",
+    "sandbox_mode"
+  ]
+}

@@ -1,0 +1,4 @@
+name: fingerprint_host
+description: "Basic service banner grab for discovered open ports"
+entrypoint: "skills/fingerprint_host.py"
+

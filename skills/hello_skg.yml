@@ -1,0 +1,3 @@
+name: hello_skg
+description: sanity test
+entrypoint: "skills/hello_skg.py"

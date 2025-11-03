@@ -1,0 +1,3 @@
+name: learning_summarizer
+description: Compresses telemetry into periodic learning summaries.
+entrypoint: skills/learning_summarizer.py

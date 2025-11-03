@@ -1,0 +1,4 @@
+name: meta_cycle_daemon_v2
+description: Enhanced reflective heartbeat for SKG with coherence metrics.
+entrypoint: skills/meta_cycle_daemon_v2.py
+

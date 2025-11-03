@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:46Z
+    id: 20251103T133146Z_820624bc439c
+    class: logline
+    state: stable
+    hash: sha1:820624bc439c
+  }
+  ~thought
+   msg:"{"text": "NameError: name 'app' is not defined"}"
+   context:"from:ui.log"
+   kind:"logline"
+  ~
+  { "truth_anchor": true, "kind": "logline", "msg": "{\"text\": \"NameError: name 'app' is not defined\"}", "context": "from:ui.log" }
+</pearl>

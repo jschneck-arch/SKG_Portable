@@ -1,0 +1,3 @@
+name: iface_enum
+description: Enumerate network interfaces using exec_chain
+entrypoint: "skills/iface_enum.run"

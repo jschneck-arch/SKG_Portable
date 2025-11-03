@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:46Z
+    id: 20251103T133146Z_21fe5b23eb6c
+    class: logline
+    state: stable
+    hash: sha1:21fe5b23eb6c
+  }
+  ~thought
+   msg:"{"ts": 1761964443.9631155, "skill": "echo_hello", "need": "simulate", "ctx": {"mode": "unified", "need": "simulate", "risk": 0, "trust": 3}, "params": {"param_message": "hi skg"}, "event": "request"}"
+   context:"from:skill.log"
+   kind:"logline"
+  ~
+  { "truth_anchor": true, "kind": "logline", "msg": "{\"ts\": 1761964443.9631155, \"skill\": \"echo_hello\", \"need\": \"simulate\", \"ctx\": {\"mode\": \"unified\", \"need\": \"simulate\", \"risk\": 0, \"trust\": 3}, \"params\": {\"param_message\": \"hi skg\"}, \"event\": \"request\"}", "context": "from:skill.log" }
+</pearl>

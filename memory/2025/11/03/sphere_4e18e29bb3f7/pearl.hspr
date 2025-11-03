@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:32Z
+    id: 20251103T133132Z_4e18e29bb3f7
+    class: reflection
+    state: stable
+    hash: sha1:4e18e29bb3f7
+  }
+  ~thought
+   msg:"first hybrid pearl"
+   context:"sink"
+   kind:"reflection"
+  ~
+  { "truth_anchor": true, "kind": "reflection", "msg": "first hybrid pearl", "context": "sink" }
+</pearl>

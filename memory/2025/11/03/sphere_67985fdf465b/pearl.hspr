@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:43Z
+    id: 20251103T133143Z_67985fdf465b
+    class: approval
+    state: stable
+    hash: sha1:67985fdf465b
+  }
+  ~thought
+   msg:"{"proposal": "journal_test", "decision": "approved", "reason": "Verifying journal path permissions", "timestamp": "2025-11-03T04:37:37.189905"}"
+   context:"from:approval_history.log"
+   kind:"approval"
+  ~
+  { "truth_anchor": true, "kind": "approval", "msg": "{\"proposal\": \"journal_test\", \"decision\": \"approved\", \"reason\": \"Verifying journal path permissions\", \"timestamp\": \"2025-11-03T04:37:37.189905\"}", "context": "from:approval_history.log" }
+</pearl>

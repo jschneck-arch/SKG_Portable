@@ -1,0 +1,14 @@
+mode: unified
+heartbeat:
+  strategy: adaptive
+  min_interval_ms: 2000
+  idle_interval_ms: 10000
+  sleep_interval_ms: 60000
+telemetry:
+  level: INFO
+  file: logs/telemetry.log
+api:
+  host: 0.0.0.0
+  port: 8123
+memory:
+  file: brain/memory.jsonl

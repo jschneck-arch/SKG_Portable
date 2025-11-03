@@ -1,0 +1,93 @@
+<!doctype html><html><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>SKG Cockpit</title>
+<style>
+ body{background:#000;color:#0f0;font-family:monospace;margin:0}
+ .wrap{max-width:960px;margin:20px auto;padding:12px}
+ .card{border:1px solid #0a0;margin:10px 0;padding:10px}
+ .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+ button{background:#0a0;color:#000;border:0;padding:8px 10px;cursor:pointer;font-weight:700}
+ .pill{display:inline-block;padding:2px 8px;border:1px solid #0a0;margin-left:8px}
+ .danger{background:#f55;color:#000}
+ .toast{position:fixed;right:12px;bottom:12px;background:#111;border:1px solid #0a0;padding:10px}
+ input,textarea{width:100%;background:#111;color:#0f0;border:1px solid #0a0;padding:6px}
+</style>
+</head><body><div class="wrap">
+  <div class="card">
+    <div class="row">
+      <div>🧠 <b>SKG Cockpit</b></div>
+      <div id="mode" class="pill">mode: ...</div>
+      <div id="auto" class="pill">auto: ...</div>
+    </div>
+    <div class="row">
+      <button onclick="forceMode('safe')">SAFE</button>
+      <button class="danger" onclick="forceMode('offense')">OFFENSE</button>
+      <button onclick="forceMode('auto')">AUTO</button>
+    </div>
+  </div>
+
+  <div class="card">
+    <div><b>Status Output</b></div>
+    <pre id="status">Loading...</pre>
+  </div>
+
+  <div class="card">
+    <div><b>Reflect Input</b></div>
+    <input id="ri" placeholder="Enter reflection command..."/>
+    <button onclick="reflect()">Reflect</button>
+  </div>
+
+  <div class="card">
+    <div><b>Memory Tail</b></div>
+    <pre id="mem">Loading...</pre>
+  </div>
+</div>
+
+<div id="toast" class="toast" style="display:none"></div>
+
+<script>
+let lastMode = null;
+
+function toast(msg){
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.style.display='block';
+  setTimeout(()=>t.style.display='none', 3500);
+}
+
+async function refreshMode(){
+  const r = await fetch('/mode'); const j = await r.json();
+  document.getElementById('mode').textContent = 'mode: ' + j.mode;
+  document.getElementById('auto').textContent = 'auto: ' + (j.autonomy ? 'on' : 'n/a');
+  if (lastMode && lastMode !== j.mode){
+    toast(`⚠️ SKG switched mode: ${lastMode} → ${j.mode}`);
+  }
+  lastMode = j.mode;
+}
+
+async function forceMode(m){
+  await fetch('/mode',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({mode:m,reason:'ui'})});
+  refreshMode();
+}
+
+async function reflect(){
+  const q = document.getElementById('ri').value;
+  const r = await fetch('/reflect',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({q})});
+  document.getElementById('status').textContent = await r.text();
+  refreshMem();
+}
+
+async function refreshStatus(){
+  const r = await fetch('/status'); document.getElementById('status').textContent = await r.text();
+}
+
+async function refreshMem(){
+  const r = await fetch('/memory'); document.getElementById('mem').textContent = await r.text();
+}
+
+setInterval(refreshMode, 2000);
+setInterval(refreshStatus, 5000);
+setInterval(refreshMem, 5000);
+refreshMode(); refreshStatus(); refreshMem();
+</script>
+</body></html>
+

@@ -1,0 +1,11 @@
+sensors:
+  device:
+    - command: "termux-battery-status"
+    - command: "termux-storage-get"
+    - command: "df -h"
+    interval: 60
+
+  thought_loop:
+    interval: 30
+    actions: [reflect, summarize]
+

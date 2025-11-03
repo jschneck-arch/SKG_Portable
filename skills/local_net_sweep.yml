@@ -1,0 +1,4 @@
+name: local_net_sweep
+description: "Ping sweep local /24 (safe) - limited to local network"
+entrypoint: "skills/local_net_sweep.py"
+

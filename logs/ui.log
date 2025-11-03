@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/SKG_Portable/api.py", line 8, in <module>
+    @app.route("/")
+     ^^^
+NameError: name 'app' is not defined

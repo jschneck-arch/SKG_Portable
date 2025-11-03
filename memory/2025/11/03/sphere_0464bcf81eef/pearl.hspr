@@ -1,0 +1,15 @@
+<pearl>
+  .meta {
+    ts: 2025-11-03T13:31:46Z
+    id: 20251103T133146Z_0464bcf81eef
+    class: logline
+    state: stable
+    hash: sha1:0464bcf81eef
+  }
+  ~thought
+   msg:"{"text": "Port 5001 is in use by another program. Either identify and stop that program, or start the server with a different port."}"
+   context:"from:api.log"
+   kind:"logline"
+  ~
+  { "truth_anchor": true, "kind": "logline", "msg": "{\"text\": \"Port 5001 is in use by another program. Either identify and stop that program, or start the server with a different port.\"}", "context": "from:api.log" }
+</pearl>

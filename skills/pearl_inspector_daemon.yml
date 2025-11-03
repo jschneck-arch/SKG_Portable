@@ -1,0 +1,4 @@
+name: pearl_inspector_daemon
+description: Build index/summaries over HSPR memory
+entrypoint: "skills/pearl_inspector_daemon.py"
+
