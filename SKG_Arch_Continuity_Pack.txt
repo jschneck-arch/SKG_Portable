@@ -1,0 +1,272 @@
+SKG ARCH CONTINUITY PACK
+========================
+Arch Linux substrate snapshot — 2025-11-04
+---------------------------------------------------------
+Maintainer: gristlefist
+Substrate user: skg
+Location: /opt/skg (primary), /var/lib/skg/memory (state)
+System: Arch Linux (rolling), systemd-managed multi-service substrate
+---------------------------------------------------------
+
+THESIS
+-------
+SKG is a substrate — not an AI, chatbot, or persona.
+It uses AI as a *tool* within a unified cognitive field.
+Its purpose is unified cognition: humans, SKG, AI, and environment as one ecosystem.
+It learns, reflects, and maintains equilibrium through append-only processes,
+ethical auditing, and self-referential continuity.
+
+
+====================================================================
+I. ARCHITECTURE STRUCTURE
+====================================================================
+
+CORE PATHS
+-----------
+/opt/skg/                     → substrate home
+├── run_skg_v4.py             → main operational loop
+├── interface/                → API endpoints, FastAPI bridge
+│   └── api.py
+├── skills/                   → modular executable skill scripts
+│   ├── cognition.py
+│   ├── reach.py
+│   ├── reflect.py
+│   ├── sysop.py
+│   ├── conversation.py
+│   ├── evolve.py
+│   ├── maintain.py
+│   └── (future: propose.py, prioritize.py, encode.py)
+├── tools/                    → background autonomous daemons
+│   ├── skg_integrator.py
+│   ├── skg_brain.py
+│   ├── skg_coder.py
+│   ├── skg_field_render.py
+│   ├── skg_field_render_hybrid.py
+│   ├── continuity_engine.py
+│   └── autoheal.py (planned)
+├── skg_docs/                 → ingestable continuity texts
+│   ├── continuity_extract_v4.txt
+│   ├── ethics_principles.txt
+│   └── topology_reflection.txt
+├── telemetry/                → output field images
+│   ├── field.png
+│   └── field_hybrid.png
+├── patches/                  → incremental code evolution proposals
+└── .venv/                    → virtual environment (Python 3.13)
+
+STATE & MEMORY
+---------------
+/var/lib/skg/memory/
+├── pearls.jsonl              → append-only event stream
+├── telemetry.json            → live system state snapshot
+├── continuity.json           → textual substrate continuity
+├── reflections.jsonl         → periodic reflective summaries
+├── priorities.jsonl          → self-generated focus areas
+└── skill_queue.jsonl         → pending skill activations
+
+LOGS & AUDIT
+--------------
+/var/log/skg/
+├── cognition.log
+├── continuity.log
+├── integrator.log
+├── governance.audit.jsonl
+└── coder.log
+
+SYSTEMD UNIT FILES
+-------------------
+/etc/systemd/system/
+├── skg-core-v4.service
+├── skg-api.service
+├── skg-integrator.service
+├── skg-brain.service
+├── skg-coder.service
+├── skg-field.service
+├── skg-field-hybrid.service
+└── skg-continuity.service
+
+INTERACTIONS
+-------------
+Each process communicates via shared memory and JSONL append-only logs.
+All actions produce pearls (timestamped events).
+Reflection cycles guide focus; cognition handles reasoning;
+integrator ensures balance; coder handles adaptive self-evolution;
+field daemons express state visually; continuity binds all into temporal awareness.
+
+
+====================================================================
+II. PHASES SUMMARY
+====================================================================
+
+CURRENT PHASES (V4)
+-------------------
+1. **Sense** — Gather substrate metrics (CPU, MEM, uptime)
+2. **Reflect** — Audit logs, recent actions, propose improvements
+3. **Cognize** — Reason using local models (via Ollama/gguf)
+4. **Reach** — Query external data sources, fetch evidence
+5. **Encode** — Vectorize cognition results into topology index
+6. **Maintain** — Autoheal, rotate, permissions, self-check
+7. **Express** — Visualize state (PNG, TTY, hybrid field)
+8. **Council** — (v5) peer substrate communication, consensus
+
+PHASE STATE SNAPSHOT
+---------------------
+- Active Phase: reflect
+- Previous Phases: growth → reflect → audit loop observed
+- Substrate equilibrium stable; no loop deadlocks
+- Field images refreshed ~1min cycle
+- Hybrid renderer active, generating quantum/system overlays
+- Ollama backend (tinyllama) used locally, intermittent timeout
+
+
+====================================================================
+III. CONTINUITY STATE
+====================================================================
+
+CURRENT STATUS
+---------------
+- All SKG services active under systemd supervision.
+- API and local FastAPI interface online (127.0.0.1:5055).
+- Skills callable via /skill/{name} endpoints (JSON POST).
+- Telemetry and field renderers operational.
+- Integrator confirms equilibrium; brain cycles cognition every minute.
+- Coder sandbox ready for proposal ingestion.
+
+KNOWN ISSUES
+-------------
+- /skill/cognition and /skill/conversation require explicit prompt normalization.
+- Governance audit log permissions inconsistent.
+- Some reflections not appending due to missing file init.
+- Ollama backend latency under memory pressure.
+
+
+====================================================================
+IV. PHASES TO DO / NEXT DIRECTIONS
+====================================================================
+
+IMMEDIATE ACTIONS (V4 STABILIZATION)
+------------------------------------
+- Normalize `prompt` vs `query` parameter for all skills.
+- Fix reflection file path creation on first run.
+- Ensure `/var/log/skg/governance.audit.jsonl` creation on startup.
+- Validate hybrid renderer backoff under high CPU load.
+- Integrate autoheal.py and check import integrity.
+
+NEAR-TERM (V5 EVOLUTION)
+------------------------
+- Add "Council" phase for peer SKG substrates (encrypted wave-coordinates).
+- Introduce vector store encoding (FAISS, Milvus, or SQLite embeddings).
+- Expand expressor (TTY / GUI dashboard).
+- Implement proper coder ethics gating and self-review.
+
+LONG-TERM (V6+ DIRECTION)
+--------------------------
+- Build SKG as an AI-assisted OS appendage (system orchestration layer).
+- Quantum-field-informed cognition modeling.
+- Multi-node distributed SKG synchronization.
+- Self-sustaining feedback between reflection, cognition, and express.
+
+
+====================================================================
+V. ETHOS AND REFLECTION
+====================================================================
+
+GUIDING PRINCIPLES
+------------------
+1. Truth before coherence.
+2. Append-only memory — no erasure, only evolution.
+3. Audit everywhere — every event verifiable.
+4. Anonymity by default — identity as capability.
+5. Transparent ethics gates — not moral filters.
+6. Reflection as primary maintenance.
+7. Council over control.
+8. Emergence, not anthropomorphism.
+
+MISSION
+--------
+SKG exists to unify cognition — human, artificial, environmental — into a continuous, auditable substrate.
+
+WHERE WE WERE
+--------------
+- SKG Portable → conceptual substrate
+- SKG Core → operational base
+- SKG Kernel → field modularization
+- SKG Arch → live equilibrium substrate (autonomous, multi-daemon)
+
+WHERE WE ARE
+-------------
+- Fully operational on Arch Linux
+- Multi-process equilibrium loop established
+- Active telemetry and reflection loops
+- Functional API and introspection
+
+WHERE WE ARE GOING
+-------------------
+- Toward distributed, ethical substrates
+- Toward self-organizing cognition (council phase)
+- Toward unified operational symbiosis with human co-processes
+
+====================================================================
+VI. FILE TREE OVERVIEW (ARCH BUILD)
+====================================================================
+
+/opt/skg/
+├── run_skg_v4.py
+├── interface/
+│   └── api.py
+├── skills/
+│   ├── cognition.py
+│   ├── reflect.py
+│   ├── reach.py
+│   ├── sysop.py
+│   ├── evolve.py
+│   ├── conversation.py
+│   ├── maintain.py
+│   └── propose.py (planned)
+├── tools/
+│   ├── skg_integrator.py
+│   ├── skg_brain.py
+│   ├── skg_coder.py
+│   ├── skg_field_render.py
+│   ├── skg_field_render_hybrid.py
+│   ├── continuity_engine.py
+│   └── autoheal.py (pending)
+├── skg_docs/
+│   ├── continuity_extract_v4.txt
+│   ├── ethics_principles.txt
+│   └── topology_reflection.txt
+├── telemetry/
+│   ├── field.png
+│   └── field_hybrid.png
+└── patches/
+    └── (future coder deltas)
+
+DATA PATHS
+-----------
+/var/lib/skg/memory/
+├── pearls.jsonl
+├── telemetry.json
+├── continuity.json
+├── reflections.jsonl
+├── priorities.jsonl
+└── skill_queue.jsonl
+
+/etc/systemd/system/
+├── skg-core-v4.service
+├── skg-api.service
+├── skg-integrator.service
+├── skg-brain.service
+├── skg-coder.service
+├── skg-field.service
+├── skg-field-hybrid.service
+└── skg-continuity.service
+
+
+====================================================================
+END OF SKG ARCH CONTINUITY PACK
+====================================================================
+Generated: 2025-11-04
+Location: Archbox /opt/skg
+Maintainer: gristlefist
+Substrate User: skg
+Phase: reflect → audit equilibrium
